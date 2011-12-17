@@ -1,6 +1,6 @@
 # Be sure to restart your server when you modify this file.
 
-ReproduceDbcleanerTransctionBug::Application.config.session_store :cookie_store, :key => '_reproduce-dbcleaner-transction-bug_session'
+ReproduceDbcleanerTransctionBug::Application.config.session_store :cookie_store, :key => '_reproduce-dbcleaner-transaction-bug_session'
 
 # Use the database for sessions instead of the cookie-based default,
 # which shouldn't be used to store highly confidential information
